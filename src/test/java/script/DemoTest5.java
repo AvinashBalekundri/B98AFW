@@ -1,5 +1,5 @@
 package script;
 
-public class DemoTest4 {
+public class DemoTest5 {
 
 }
